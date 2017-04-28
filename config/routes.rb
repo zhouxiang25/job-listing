@@ -9,5 +9,6 @@ Rails.application.routes.draw do
         post :publish
         post :hide
       end
-  end
+   end
+ end
 end
